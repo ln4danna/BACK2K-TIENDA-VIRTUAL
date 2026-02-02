@@ -1,4 +1,6 @@
-DEMO https://back2k.netlify.app/
+# BACK2K-TIENDA-VIRTUAL
+Back2k es una aplicación web de e-commerce enfocada en moda urbana, desarrollada con React. Incluye navegación por categorías, carrito de compras dinámico y una interfaz moderna y responsiva.
+# DEMO https://back2k.netlify.app/
 
 # React + Vite
 
@@ -17,6 +19,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
-# BACK2K-TIENDA-VIRTUAL
-Back2k es una aplicación web de e-commerce enfocada en moda urbana, desarrollada con React. Incluye navegación por categorías, carrito de compras dinámico y una interfaz moderna y responsiva.
->>>>>>> 625abe931dea3bb40c517fcc76b34028b3f15bcd
