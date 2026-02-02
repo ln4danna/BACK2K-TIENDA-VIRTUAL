@@ -1,0 +1,183 @@
+{
+    "bottoms": [
+    {
+        "id": 1,
+        "name": "Low Rise Jeans",
+        "price": 49.99,
+        "img": "https://amyfashionshop.com/cdn/shop/files/b388133ad7f0415fe8b740dfdf13acb6_1000x.jpg?v=1761893025",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Wide Leg Jeans",
+        "price": 59.99,
+        "img": "https://i.pinimg.com/736x/67/30/41/6730413940c699f7f9148b31226f6a76.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Washed Denim Jeans",
+        "price": 54.99,
+        "img": "https://i.pinimg.com/736x/a3/f8/89/a3f889f04d7a5e1c77dbdac697d2a8c7.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Baggy Jeans",
+        "price": 64.99,
+        "img": "https://i.pinimg.com/736x/fd/2e/56/fd2e566277d338aa6c23b4e3210ecdc2.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Baggy Washed Jeans",
+        "price": 52.99,
+        "img": "https://i.pinimg.com/736x/d4/ca/7c/d4ca7c138ab290651b9a583fd85e8258.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Jort Washed",
+        "price": 57.99,
+        "img": "https://i.pinimg.com/1200x/6c/ef/61/6cef61d7401e9f8924157ddbfa5b1e7a.jpg",
+        "quantity": 1
+    }
+],
+  "tops" : [
+
+    {
+        "id": 1,
+        "name": "Top Hojuelas",
+        "price": 29.99,
+        "img": "https://i.pinimg.com/1200x/d1/45/c0/d145c0912a5af188316de14b70700bba.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "T-Shirt",
+        "price": 19.99,
+        "img": "https://i.pinimg.com/1200x/4e/af/4d/4eaf4dd71b017302a6fbba2f919f72f1.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Top London",
+        "price": 39.99,
+        "img": "https://i.pinimg.com/1200x/57/8c/e1/578ce1839767abe3a92bf4cd7e99a8b8.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Top Rayas",
+        "price": 24.99,
+        "img": "https://i.pinimg.com/1200x/44/dc/0c/44dc0c12bdb3ef59155cd228301618b3.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Halter Top",
+        "price": 49.99,
+        "img": "https://i.pinimg.com/1200x/e7/78/50/e7785053c3fa42bc155113ec749780a5.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Top Brazil",
+        "price": 44.99,
+        "img": "https://i.pinimg.com/736x/ff/99/78/ff9978efd5431de15d0b8757dde3053f.jpg",
+        "quantity": 1
+    }
+   
+  ],
+
+  "hoodies":[
+    {
+        "id": 1,
+        "name": "Red Hoodie",
+        "price": 59.99,
+        "img": "https://i.pinimg.com/1200x/44/e9/c9/44e9c968ceb8406634b0d88d9c114cba.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Hoodie Rayas",
+        "price": 64.99,
+        "img": "https://i.pinimg.com/1200x/6a/05/a1/6a05a1f8686722ac2a1e827424611ddc.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Hoodie Camuflado",
+        "price": 54.99,
+        "img": "https://i.pinimg.com/736x/8d/f9/79/8df9799b80b6557c75e0380659f2bebe.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Graphic Hoodie",
+        "price": 69.99,
+        "img": "https://i.pinimg.com/736x/71/a6/42/71a6425c9e80afb0198740a6c2700a0f.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Hoodie Negro",
+        "price": 74.99,
+        "img": "https://i.pinimg.com/736x/42/12/db/4212db02084afd2d1f0a1990928762a4.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Sport Hoodie",
+        "price": 49.99,
+        "img": "https://i.pinimg.com/1200x/7b/30/5a/7b305aaf14daaa95b6c891e7afd29792.jpg",
+        "quantity": 1
+    }
+  ],
+
+  "new":[
+    {
+        "id": 1,
+        "name": "Low Rise Jeans",
+        "price": 49.99,
+        "img": "https://amyfashionshop.com/cdn/shop/files/b388133ad7f0415fe8b740dfdf13acb6_1000x.jpg?v=1761893025",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Hoodie Camuflado",
+        "price": 54.99,
+        "img": "https://i.pinimg.com/736x/8d/f9/79/8df9799b80b6557c75e0380659f2bebe.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Top London",
+        "price": 39.99,
+        "img": "https://i.pinimg.com/1200x/57/8c/e1/578ce1839767abe3a92bf4cd7e99a8b8.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Graphic Hoodie",
+        "price": 69.99,
+        "img": "https://i.pinimg.com/736x/71/a6/42/71a6425c9e80afb0198740a6c2700a0f.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Baggy Washed Jeans",
+        "price": 52.99,
+        "img": "https://i.pinimg.com/736x/d4/ca/7c/d4ca7c138ab290651b9a583fd85e8258.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Top Brazil",
+        "price": 44.99,
+        "img": "https://i.pinimg.com/736x/ff/99/78/ff9978efd5431de15d0b8757dde3053f.jpg",
+        "quantity": 1
+    }
+  ]
+
+}
